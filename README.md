@@ -7,7 +7,7 @@ This project provides an API for classifying XRay images into three categories: 
 To get started with this project, clone the repository and navigate to the project directory.
 
 ```bash
-git clone https://github.com/username/xray-api.git
+git clone https://github.com/om-ashish-soni/chest-xray-to-desc-gfg-hackathon.git
 cd xray-api
 ```
 
