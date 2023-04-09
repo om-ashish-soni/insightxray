@@ -22,7 +22,7 @@ export default function UploadImage() {
         setProgress(progress+updateThreshold);
       }, updateTime);
       try {
-        const response = await axios.post('http://34.93.165.201:8000/xray/', formData, {
+        const response = await axios.post('/xray/', formData, {
           headers: {
             'Content-Type': 'multipart/form-data'
           },
