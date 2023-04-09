@@ -1,4 +1,8 @@
-# Chest XRay Image Classification
+# InsightXray
+
+## Try live at : [InsightXray Live](http://34.93.165.201:3000/)
+
+## demo video : [link to the demo video](https://drive.google.com/file/d/1QNS6m7TY9-orKfQkQfYS-0UD5POML9bQ/view?usp=share_link)
 
 # X-Ray Classification Frontend
 
